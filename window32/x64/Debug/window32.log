@@ -1,4 +1,0 @@
-﻿  main.c
-C:\Users\fengchunjie\Desktop\C语言\Debug\window32\window32\main.c(53,29): warning C4133: “函数”: 从“unsigned short [7]”到“LPCSTR”的类型不兼容
-C:\Users\fengchunjie\Desktop\C语言\Debug\window32\window32\main.c(53,40): warning C4133: “函数”: 从“unsigned short [3]”到“LPCSTR”的类型不兼容
-  window32.vcxproj -> C:\Users\fengchunjie\Desktop\C语言\Debug\window32\x64\Debug\window32.exe
